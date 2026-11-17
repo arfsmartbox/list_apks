@@ -1,1 +1,14 @@
-
+[
+{
+"id": 1,
+"name": "BitTV",
+"version": "2.1.8",
+"icon_url": "https://files.amlogic.web.id/icons/1793222486812-280734.png",
+"apk_url": "https://raw.githubusercontent.com/arfsmartbox/list_apks/07e6d2e7eaeda5ee2f69b7c02df7f7ae457bb34d/catalog/BitTV-v2.1.8-agate%20(SFILE.MOBI).apk",
+"package_name": "com.live_streaming_tv.online_tv",
+"description": "BitTV versi 2.1.8",
+"developer_name": "",
+"rating": 5,
+"category": "Streaming"
+}
+]
